@@ -1,6 +1,5 @@
 # Credit Card Application System
-
-Assignment: Credit Card Application System
+A user interface (UI) development project that focuses on creating the screens and interactive form applicants can use to input their personal details when applying for a credit card. 
 
 ## Setup
 
