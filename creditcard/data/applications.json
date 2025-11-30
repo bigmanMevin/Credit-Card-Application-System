@@ -1,0 +1,29 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "firstName": "Mevin",
+      "lastName": "Mathews",
+      "email": "mevinmathews22@gmail.com",
+      "phone": "0506867878",
+      "employmentType": "salaried",
+      "companyName": "Google",
+      "salary": "30000",
+      "status": "pending",
+      "submittedAt": "2025-11-26T13:04:10.946Z"
+    },
+    {
+      "id": 2,
+      "firstName": "Mahmoud",
+      "lastName": "Mohammed",
+      "email": "mahmoud21@gmail.com",
+      "phone": "0567843232",
+      "employmentType": "salaried",
+      "companyName": "Microsoft",
+      "salary": "669999",
+      "status": "pending",
+      "submittedAt": "2025-11-26T13:05:41.786Z"
+    }
+  ],
+  "nextId": 3
+}
