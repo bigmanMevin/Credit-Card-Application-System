@@ -73,10 +73,5 @@ Just fill out the form with some test data:
 
 Upload any two files and submit and get an application number at the end.
 
-## Submitted by
 
-Name: Mevin Ninan Mathews 
-ID: 2022A7PS0195U
-Email: f20220195@dubai.bits-pilani.ac.in
-Contact: +971-507858489
 
